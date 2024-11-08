@@ -22,7 +22,7 @@ Person 1 skriver här:
 
 Person 2 skriver här:
 =======================
-
+"Ja, men den är billig iallafal" sa Jessica
 
 
 Person 3 avslutar berättelsen här:
